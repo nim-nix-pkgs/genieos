@@ -82,42 +82,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
-        "x11-master": "x11-master"
-      },
-      "locked": {
-        "lastModified": 1648108245,
-        "narHash": "sha256-ex54JjBo+ZRogLbyeF8IJYbYc52EQ0qAYTEr11bzEbw=",
-        "owner": "nim-nix-pkgs",
-        "repo": "x11",
-        "rev": "651566279fd8a072a2f9e76f031a07ad594dcc07",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "x11",
-        "type": "github"
-      }
-    },
-    "x11-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "x11",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "x11",
-          "nixpkgs"
-        ],
         "src-x11-master": "src-x11-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648108245,
-        "narHash": "sha256-ex54JjBo+ZRogLbyeF8IJYbYc52EQ0qAYTEr11bzEbw=",
+        "lastModified": 1648163768,
+        "narHash": "sha256-C4W8mPnsxNru+oH8cmI253GFZK9GLQgbXHjPTn29cn8=",
         "owner": "nim-nix-pkgs",
         "repo": "x11",
-        "rev": "651566279fd8a072a2f9e76f031a07ad594dcc07",
+        "rev": "74844a95dc507e21c06208931f43613be17565d3",
         "type": "github"
       },
       "original": {
