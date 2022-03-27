@@ -11,6 +11,7 @@
   inputs.src-genieos-v9_2_0-sunny.ref   = "refs/tags/v9.2.0-sunny";
   inputs.src-genieos-v9_2_0-sunny.owner = "Araq";
   inputs.src-genieos-v9_2_0-sunny.repo  = "genieos";
+  inputs.src-genieos-v9_2_0-sunny.dir   = "";
   inputs.src-genieos-v9_2_0-sunny.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

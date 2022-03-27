@@ -11,6 +11,7 @@
   inputs.src-genieos-master.ref   = "refs/heads/master";
   inputs.src-genieos-master.owner = "Araq";
   inputs.src-genieos-master.repo  = "genieos";
+  inputs.src-genieos-master.dir   = "";
   inputs.src-genieos-master.type  = "github";
   
   inputs."x11".owner = "nim-nix-pkgs";

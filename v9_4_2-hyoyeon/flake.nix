@@ -11,6 +11,7 @@
   inputs.src-genieos-v9_4_2-hyoyeon.ref   = "refs/tags/v9.4.2-hyoyeon";
   inputs.src-genieos-v9_4_2-hyoyeon.owner = "Araq";
   inputs.src-genieos-v9_4_2-hyoyeon.repo  = "genieos";
+  inputs.src-genieos-v9_4_2-hyoyeon.dir   = "";
   inputs.src-genieos-v9_4_2-hyoyeon.type  = "github";
   
   inputs."x11".owner = "nim-nix-pkgs";
