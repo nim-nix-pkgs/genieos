@@ -11,7 +11,6 @@
   inputs.src-genieos-v9_4_0-tiffany.ref   = "refs/tags/v9.4.0-tiffany";
   inputs.src-genieos-v9_4_0-tiffany.owner = "Araq";
   inputs.src-genieos-v9_4_0-tiffany.repo  = "genieos";
-  inputs.src-genieos-v9_4_0-tiffany.dir   = "";
   inputs.src-genieos-v9_4_0-tiffany.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
